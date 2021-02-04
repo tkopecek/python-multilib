@@ -1,2 +1,3 @@
-# python-multilib
-A Python library for determining if a package is multilib or not
+# Repository moved
+
+This project is now hosted at https://pagure.io/releng/python-multilib
